@@ -22,3 +22,6 @@ logs
 .env
 .env.*
 !.env.example
+
+# Git hooks local config
+.githooks/.author
