@@ -1,0 +1,22 @@
+Always generate commit messages in Korean.
+
+Format:
+type: summary
+
+- detail 1
+- detail 2
+- detail 3
+
+Allowed types:
+- feat: 기능 추가
+- fix: 버그 수정
+- refactor: 구조 개선
+- chore: 기타 작업
+
+Rules:
+- Write in Korean only
+- First line: concise summary
+- Then include 2~4 bullet points explaining key changes
+- Focus on what changed, not how
+- Keep each bullet short and clear
+- Do not include date or author name
